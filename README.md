@@ -7,7 +7,7 @@ The “Dairy Management System” showcased here represents a cutting-edge C++ p
 Features:
 
 1. Login System:
-<img align="right" alt="coding" width="95" src="https://static.vecteezy.com/system/resources/previews/000/641/301/original/vector-web-login-form-template.jpg">
+<img align="right" alt="coding" width="100" src="https://static.vecteezy.com/system/resources/previews/000/641/301/original/vector-web-login-form-template.jpg">
    – Users are required to provide a username and a password to access the dairy management system.
 
    – A predefined password (“3003”) is used for authentication. Successful login leads to access to the main menu.
@@ -16,7 +16,7 @@ Features:
 
 
 2. Milk Deposit:
-   <img align="left" alt="coding" width="200" src="https://th.bing.com/th/id/OIP.IfQEvgzby7aIajWNNGnJKAAAAA?rs=1&pid=ImgDetMain">
+   <img align="left" alt="coding" width="100" src="https://th.bing.com/th/id/OIP.IfQEvgzby7aIajWNNGnJKAAAAA?rs=1&pid=ImgDetMain">
 
    – Users can input information about milk deposits, including the name, animal type (cow/buffalo), quantity of milk, and milk fat.
 
@@ -25,7 +25,7 @@ Features:
 
 
 4. Main Menu:
-    <img align="right" alt="coding" width="90" src="https://th.bing.com/th/id/OIP.41Lr9i4vfwViqiQYCUQIIgHaJo?rs=1&pid=ImgDetMain">
+    <img align="right" alt="coding" width="100" src="https://th.bing.com/th/id/OIP.41Lr9i4vfwViqiQYCUQIIgHaJo?rs=1&pid=ImgDetMain">
 
    – After successful login, users are presented with a main menu.
 
@@ -55,7 +55,7 @@ Features:
 
 9. User-Friendly Interface:
     
-<img align="left" alt="coding" width="150" src="https://th.bing.com/th/id/OIP.WS3MrQR8ERzabUzXnHBaqwHaEk?rs=1&pid=ImgDetMain">
+<img align="left" alt="coding" width="100" src="https://th.bing.com/th/id/OIP.WS3MrQR8ERzabUzXnHBaqwHaEk?rs=1&pid=ImgDetMain">
    – The system is designed with clear prompts and messages for user interaction.
 
    – Menus and bill receipts are organized with appropriate formatting for easy readability.
