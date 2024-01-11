@@ -12,6 +12,9 @@ Features:
 
    – A predefined password (“3003”) is used for authentication. Successful login leads to access to the main menu.
 
+
+
+
 2. Milk Deposit:
    <img align="left" alt="coding" width="200" src="https://th.bing.com/th/id/OIP.IfQEvgzby7aIajWNNGnJKAAAAA?rs=1&pid=ImgDetMain">
 
@@ -19,12 +22,15 @@ Features:
 
    – The system calculates the milk’s fat rate and the corresponding bill. The user receives a detailed bill receipt.
 
+
+
 4. Main Menu:
     <img align="right" alt="coding" width="90" src="https://th.bing.com/th/id/OIP.41Lr9i4vfwViqiQYCUQIIgHaJo?rs=1&pid=ImgDetMain">
 
    – After successful login, users are presented with a main menu.
 
    – The menu options include managing milk deposits, animal meal, loan applications, and learning more about the dairy.
+
 
 6. Animal Meal:
 
@@ -38,11 +44,14 @@ Features:
 
    – The system calculates the loan interest and generates a loan receipt detailing the loan amount, interest, total due, and monthly EMI.
 
+
+
 8. About Dairy:
 <img align="center" alt="coding" width="100" src="https://food.amerikanki.com/wp-content/uploads/2020/11/Dairy-Products-Infographics.jpg">
    – This option provides information about the dairy, including its establishment date and various benefits for associates.
 
    – Details about different loan options and associated benefits are also highlighted.
+
 
 9. User-Friendly Interface:
     
@@ -50,6 +59,7 @@ Features:
    – The system is designed with clear prompts and messages for user interaction.
 
    – Menus and bill receipts are organized with appropriate formatting for easy readability.
+
 
 11. Date and Time Display:
 
