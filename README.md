@@ -7,7 +7,7 @@ The “Dairy Management System” showcased here represents a cutting-edge C++ p
 Features:
 
 1. Login System:
-<img align="right" alt="coding" width="200" src="https://static.vecteezy.com/system/resources/previews/000/641/301/original/vector-web-login-form-template.jpg">
+<img align="right" alt="coding" width="95" src="https://static.vecteezy.com/system/resources/previews/000/641/301/original/vector-web-login-form-template.jpg">
    – Users are required to provide a username and a password to access the dairy management system.
 
    – A predefined password (“3003”) is used for authentication. Successful login leads to access to the main menu.
