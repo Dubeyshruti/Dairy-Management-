@@ -1,11 +1,12 @@
-# Dairy-Management-
 <img align="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.xEMW82F_s-q7u947WpJC7gHaE8?rs=1&pid=ImgDetMain">
+# Dairy-Management-
+
 The “Dairy Management System” showcased here represents a cutting-edge C++ project designed to revolutionize the very core of your milk dairy enterprise. This exceptional system empowers you to masterfully oversee every crucial facet that ensures the seamless operation of your dairy. 
 
 Features:
-<img align="right" alt="coding" width="200" src="https://static.vecteezy.com/system/resources/previews/000/641/301/original/vector-web-login-form-template.jpg">
-1. Login System:
 
+1. Login System:
+<img align="right" alt="coding" width="200" src="https://static.vecteezy.com/system/resources/previews/000/641/301/original/vector-web-login-form-template.jpg">
    – Users are required to provide a username and a password to access the dairy management system.
 
    – A predefined password (“3003”) is used for authentication. Successful login leads to access to the main menu.
@@ -65,4 +66,3 @@ Features:
 
     – Users are guided with prompts and instructions at each step to ensure smooth interaction.
 
-![MasterHead](https://th.bing.com/th/id/OIP.0tg5JGXtIu0BFSe6uXPLoAHaEK?rs=1&pid=ImgDetMain)
