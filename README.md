@@ -1,6 +1,6 @@
 
 # Dairy-Management-
-<img align="center"" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.xEMW82F_s-q7u947WpJC7gHaE8?rs=1&pid=ImgDetMain">
+<img align="center" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.xEMW82F_s-q7u947WpJC7gHaE8?rs=1&pid=ImgDetMain">
 
 The “Dairy Management System” showcased here represents a cutting-edge C++ project designed to revolutionize the very core of your milk dairy enterprise. This exceptional system empowers you to masterfully oversee every crucial facet that ensures the seamless operation of your dairy. 
 
